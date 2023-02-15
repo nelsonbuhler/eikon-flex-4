@@ -37,9 +37,17 @@
 
 .exercice-flex-grow-1 .element-red {
   flex-grow: 1;
+  
 }
 
-/*7. exercice-flex-grow-2 */
+.exercice-flex-grow-2 .container-small {
+  display: flex;
+  flex-direction: column;
+}
+
+.exercice-flex-grow-2 .element-green {
+  flex-grow: 1;
+}
 
 /*8. exercice-flex-grow-3 */
 
