@@ -22,7 +22,13 @@
   flex-wrap: wrap;
 }
 
-/*5. exercice-align-content-3 */
+.exercice-align-content-3 .container-small {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  flex-wrap: wrap-reverse;
+  align-content: space-between;
+}
 
 /*6. exercice-flex-grow-1 */
 
