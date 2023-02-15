@@ -1,6 +1,11 @@
-/* 1. exercice-flex */
+.exercice-flex .container-small {
+  display: flex;
+}
 
-/* 2. exercice-flex-2 */
+.exercice-flex2 .container-small {
+  display: flex;
+}
+
 
 /*3. exercice-align-content-1 */
 
