@@ -2,12 +2,18 @@
   display: flex;
 }
 
-.exercice-flex2 .container-small {
+.exercice-flex-2 .container-small {
   display: flex;
+  flex-direction: row;
+  align-items: center;
 }
 
-
-/*3. exercice-align-content-1 */
+.exercice-align-content-1 .container-small {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap-reverse;
+  align-content: center;
+}
 
 /*4. exercice-align-content-2 */
 
