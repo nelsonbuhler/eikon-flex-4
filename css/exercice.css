@@ -30,7 +30,14 @@
   align-content: space-between;
 }
 
-/*6. exercice-flex-grow-1 */
+.exercice-flex-grow-1 .container-small {
+  display: flex;
+  flex-direction: row;
+}
+
+.exercice-flex-grow-1 .element-red {
+  flex-grow: 1;
+}
 
 /*7. exercice-flex-grow-2 */
 
